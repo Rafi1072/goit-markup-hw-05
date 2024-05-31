@@ -455,3 +455,42 @@ img {
 .icon-link-footer:focus {
   background-color: #31d0aa;
 }
+
+.footer-label {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  display: flex;
+  margin-bottom: 16px;
+}
+
+.footer-btn {
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+  background-color: #4d5ae5;
+  color: #ffffff;
+  padding: 8px 24px;
+  border: none;
+  border-radius: 4px;
+  gap: 10px;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  width: 165px;
+  height: 40px;
+  margin-left: 24px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.email {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 246px;
+}
