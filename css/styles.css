@@ -463,6 +463,7 @@ img {
   letter-spacing: 0.02em;
   color: #ffffff;
   display: flex;
+  justify-content: baseline;
   margin-bottom: 16px;
 }
 
@@ -480,8 +481,6 @@ img {
   border-radius: 4px;
   gap: 10px;
   display: block;
-  justify-content: center;
-  align-items: center;
   width: 165px;
   height: 40px;
   margin-left: 24px;
