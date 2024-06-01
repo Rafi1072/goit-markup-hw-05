@@ -570,6 +570,7 @@ img {
 .modal-btn:hover {
   background-color: #404bbf;
   border: none;
+  fill: #ffffff;
 }
 
 .modal-btn:focus {
@@ -622,6 +623,10 @@ img {
 }
 .first-table-input {
   position: relative;
+}
+
+.first-table-input:focus-within {
+  fill: #4d5ae5;
 }
 
 .class-name {
