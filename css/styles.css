@@ -655,7 +655,7 @@ img {
 }
 
 .modal-icons-check {
-  position: absolute;
+  position: relative;
   left: 16px;
   top: 50%;
   transform: translateY(-50%);
