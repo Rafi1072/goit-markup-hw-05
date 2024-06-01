@@ -720,10 +720,14 @@ img {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  gap: 16px;
 }
 
 .privacy-link {
   color: #4d5ae5;
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
 }
 
 .send-btn {
